@@ -1,0 +1,22 @@
+{
+  "name": "exercice-backend",
+  "version": "1.0.0",
+  "description": "Backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "jsonwebtoken": "^8.5.1",
+    "loadash": "^1.0.0",
+    "mariadb": "^3.0.0",
+    "morgan": "^1.10.0",
+    "node-bash": "^5.0.1",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.19.0"
+  }
+}
